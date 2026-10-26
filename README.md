@@ -7,7 +7,6 @@ A Python project demonstrating keyboard-event logging on Windows and Linux, with
 - Cross-platform: Supports Windows and Linux.
 - Local logging: Stores keyboard events generated inside the application's own input window.
 - Timestamps: Records the date and time of each event.
-- Email testing:Supports sending a predefined test message through Gmail SMTP.
 - Special keys: Displays key names such as Enter, Space, Shift, and Ctrl when pressed inside the application.
 - Lightweight: Uses Python's standard library for the core functionality.
 - Standalone builds: Can be packaged separately for Windows and Linux.
