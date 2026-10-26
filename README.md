@@ -1,6 +1,6 @@
 # Cross-Platform Keyboard Logger
 
-A Python project demonstrating keyboard-event logging on Windows and Linux, with local log storage and emai.
+A Python project demonstrating keyboard-event logging on Windows and Linux, with local log storage and email.
 
 ## Features
 
